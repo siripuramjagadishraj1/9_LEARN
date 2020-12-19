@@ -17,6 +17,8 @@ Priority:
 1. React, ANDROID, PhotoShop, AWS, Python and ML.
 2. Wait for Udemy price drop
 BUY: .NET, AutoCad, Blender.
+3. Resume Skills.
+React, AWS, GITwebsite, ANDROID, Photoshop.
 
 Learnings:
 ==========
