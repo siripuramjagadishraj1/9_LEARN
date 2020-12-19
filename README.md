@@ -57,3 +57,7 @@ PhotoShop Remembering tasks:
 
 Short Cuts:
 1. CTRL+T
+
+React Remembering SKILLS:
+-------------------------
+
