@@ -1,3 +1,9 @@
+Aim:
+====
+1. Business & self skills robotics and 3D printing.
+2. Readiness for part-time job or small Ideas.
+3. Resume Development
+
 CONCLUSION:
 ===========
 1[MOBILE]. Android[0%]
@@ -61,3 +67,5 @@ Short Cuts:
 React Remembering SKILLS:
 -------------------------
 
+Android Remembering Skills:
+---------------------------
