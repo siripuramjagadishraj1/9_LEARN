@@ -20,8 +20,8 @@ BUY: .NET, AutoCad, Blender.
 
 Learnings:
 ==========
-PhotoShop:
-----------
+PhotoShop Remembering tasks:
+----------------------------
 1. Introduction.
 2. Using Layers.
   a. Reduce white/blac color in Image.
@@ -41,7 +41,6 @@ PhotoShop:
 8. Selection and Masing.
   a. Get image mask.
   b. Get Text at the back of image.
-  
 9. Filters
 10. Smart Objects.
 11. Transform and Distort
