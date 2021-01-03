@@ -1,8 +1,8 @@
 Aim:
 ====
-1. Business & self skills robotics and 3D printing.
+1. Business & self skills robotics and 3D printing.[Android, .NET, AutoCad/Blender]
 2. Readiness for part-time job or small Ideas.
-3. Resume Development
+3. Resume Development[REACT, Android, AWS, Azure]
 
 CONCLUSION:
 ===========
